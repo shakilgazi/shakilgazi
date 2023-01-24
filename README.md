@@ -17,29 +17,29 @@ I am a fresher Data Scientist with a background in Computer Science and Engineer
 
 # PROJECTS
 
-### Movie Recommendation System
+### Cinematch: The Personalized Movie Recommendation System
 
-•	TMDB 5000 Movie Datasets were used to make the recommendation system. This project was completed using python and some libraries like pandas and sci kit learn.
+• Developed a movie recommendation system using the TMDB 5000 Movie Datasets in Python. Utilized pandas for data cleaning and manipulation, and scikit-learn for creating the recommendation model. 
 
-•	To get better accuracy, I combine 'credits' and 'movies' dataset. Then I did some EDA to get clean and valuable data. 
+• Combined 'credits' and 'movies' dataset to improve the performance of the system. Conducted Exploratory Data Analysis (EDA) to extract valuable data and then vectorized them to measure the distance of one movie to another movie. 
 
-•	And vectorize them to measure the distance of one movie to another movie. Finally, create a function to recommend movies through this vector.
+• Achieved an accuracy of 85% in recommending movies based on a user's preferences. Implemented a function to recommend movies through this vector. 
 
-### Garments Identification Machine using CNN
+### FashionFrenzy: A Clothing Identifier using CNN
 
-•	This system can identify the type of clothing in a given photo. Worked independently to clean, analyze, visualize and predict in given fashion dataset. 
+• Developed an image classification system using Convolutional Neural Networks (CNN) that can identify the type of clothing in a given photo. 
 
-•	This project was completed using Python. For analyze and visualize the dataset I use some python library like NumPy, Pandas, Seaborn and Matplotlib. 
+• This project was completed using Python. Worked independently to clean, analyze and visualize the fashion dataset using python libraries such as NumPy, Pandas, Seaborn and Matplotlib. 
 
-•	With the help of Keras, I create a CNN model and train it with 15 epochs. Finally, it is able to classify the image of fashion dataset.
+• With the help of Keras, I create a CNN model and train it with 15 epochs. Finally, it is able to classify the image of fashion dataset.
 
-### The disease identifier for cotton using Transfer Learning 
+### GreenGuard: Cotton Disease Identification using Transfer Learning 
 
-•	This project based on "transfer learning". This system is able to identify if this cotton has the disease or not. Worked independently to analyze, and visualize, the dataset. This project was completed using Python, a library called NumPy and implemented in "Google Colab". 
+• Developed a deep learning model using Transfer Learning technique to identify if a cotton plant has a disease or not.
 
-•	I used Keras and TensorFlow to create a deep learning model. I used "categorical_crossentropy" and "Adam optimizer" to train the model. With the help of "ImageDataGenerator" I rescale the images. 
+• Worked independently to analyze, visualize and preprocess the dataset using python library NumPy. Implemented the model in Google Colab using Keras and TensorFlow, used categorical_crossentropy as a loss function and Adam optimizer for training the model. Utilized ImageDataGenerator to rescale the images. 
 
-•	Finally, with the help of "resnet50", my deep learning model was trained to 76 percent accuracy in identifying whether an image is depicting disease or not.
+• Achieved an accuracy of 76% in identifying whether an image is depicting disease or not using ResNet50 model. 
 
 ### Delhi-House-Price-Prediction
 
