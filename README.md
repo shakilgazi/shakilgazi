@@ -1,7 +1,7 @@
 ### Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-elasery)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-elasery)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shakil-b31b66207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxWCaDNHwQAWH8LAFXFRsbQ%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connectwithshakil@gmail.com) 
 
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/muhammad-shakil-b31b66207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxWCaDNHwQAWH8LAFXFRsbQ%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
